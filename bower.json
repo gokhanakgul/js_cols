@@ -1,0 +1,20 @@
+{
+  "name": "js_cols",
+  "version": "1.0.0",
+  "homepage": "https://github.com/thomasstjerne/js_cols",
+  "authors": [
+    "thomassjerne"
+  ],
+  "description": "JavaScript collections library",
+  "keywords": [
+    "js_cols"
+  ],
+  "license": "Apache License",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
